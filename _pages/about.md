@@ -28,5 +28,3 @@ I am currently a PhD Candidate at the School of Information, Xiamen University, 
 # Educations
 - Journal Reviewers of IEEE TNNLS, Pattern Recognition (PR).
 - Program Committee Members of ICLR.
-
-
