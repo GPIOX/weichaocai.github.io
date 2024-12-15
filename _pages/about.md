@@ -15,10 +15,10 @@ I am currently a PhD Candidate at the School of Information, Xiamen University, 
 
 # Publications
 ## Conference Papers
-- [Multimodal Representation Distribution Learning for Medical Image Segmentation](https://www.ijcai.org/proceedings/2024/459), Chao Huang, **Weichao Cai***, Qiuping Jiang, Zhihua Wang, *IJCAI 2024* (Corresponding author) [[code](https://github.com/GPIOX/Multimodal)]
+- [Multimodal Representation Distribution Learning for Medical Image Segmentation](https://www.ijcai.org/proceedings/2024/459), Chao Huang, **Weichao Cai***, Qiuping Jiang, Zhihua Wang, IJCAI 2024 (Corresponding author) [[code](https://github.com/GPIOX/Multimodal)]
 ## Journal Papers
-- A State Space Model-Driven Multiscale Attention Method for Geological Hazard Segmentation, Juan Yang, *Weichao Cai*, Gao Chen, Jingwen Yan, *IEEE Transactions on Instrumentation and Measurement*, 2024 [[code](https://github.com/GPIOX/pub_geo_mmseg)]
-- [Multiscale Global Attention for Abnormal Geological Hazard Segmentation](https://ieeexplore.ieee.org/abstract/document/10492495), **Weichao Cai**, Weiliang Huang, Lin Tian, Chao Huang, Jingwen Yan*, *IEEE Sensor Journal*, 2024
+- A State Space Model-Driven Multiscale Attention Method for Geological Hazard Segmentation, Juan Yang, *Weichao Cai*, Gao Chen, Jingwen Yan, IEEE Transactions on Instrumentation and Measurement, 2024 [[code](https://github.com/GPIOX/pub_geo_mmseg)]
+- [Multiscale Global Attention for Abnormal Geological Hazard Segmentation](https://ieeexplore.ieee.org/abstract/document/10492495), **Weichao Cai**, Weiliang Huang, Lin Tian, Chao Huang, Jingwen Yan*, IEEE Sensor Journal, 2024
 
 # Educations
 - *2024.09 - Now*, School of Information, Xiamen University, Xiamen, China
