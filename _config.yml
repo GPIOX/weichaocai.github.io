@@ -12,7 +12,7 @@ title                    : "Weichao Cai/Homepage"
 title_separator          : "-"
 name                     : &name "Weichao Cai"
 description              : &description "PhD candidate at Xiamen University"
-url                      : https://github.com/GPIOX/weichaocai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://gpiox.github.io/weichaocai.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GPIOX/weichaocai.github.io"
 
