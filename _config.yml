@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal_photo.jpg"
+  avatar           : "personal_photo.png"
   name             : "Weichao Cai"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at Xiamen University"
   location         : "Location"
   employer         : "Xiamen University"
   uri              : https://gpiox.github.io/weichaocai.github.io # URL
-  email            : "none@example.org" 
+  email            : "caiweichao0914@stu.xmu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
