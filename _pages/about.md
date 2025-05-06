@@ -29,6 +29,6 @@ I am currently a PhD Candidate at the School of Information, Xiamen University, 
 - *2021.10 - 2024.06*, College of Engineering, Shantou University, Shantou, China
 - *2017.09 - 2021.06*, School of Ocean Information Engineering, Jimei University, Xiamen, China
 
-# Educations
+# Academic Service
 - Journal Reviewers of IEEE TNNLS, IEEE TCSVT, Pattern Recognition (PR).
 - Program Committee Members of ICLR, ACM MM, IJCAI.
