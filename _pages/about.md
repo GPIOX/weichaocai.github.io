@@ -34,4 +34,4 @@ I am currently a PhD Candidate at the School of Information, Xiamen University, 
 
 # Academic Service
 - Journal Reviewers of IEEE TNNLS, IEEE TCSVT, Pattern Recognition (PR).
-- Program Committee Members of ICLR, ACM MM, IJCAI.
+- Program Committee Members of ICLR, ACM MM, IJCAI, CVPR, ECCV, NeurIPS, ICML.
