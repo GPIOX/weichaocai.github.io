@@ -19,17 +19,17 @@ I am currently a PhD Candidate at the School of Information, Xiamen University, 
 
 # Publications
 ## Conference Papers
-- Bio-PCNet: Biologically-inspired Predictive Coding Network for Multi-modal Maritime Segmentation under Composite Degradation. **Weichao Cai**, Weiliang Huang, Biao Xue, Rongxin Zhang, Chao Huang, Bob Zhang, ACM MM 2026 (First author)
--	UPR-VAD: Uncertainty-guided Signal Purification and Regularization for Weakly-Supervised Video Anomaly Detection. Weiliang Huang, **Weichao Cai**, Bob Zhang, Chao Huang, Biao Xue, Rongxin Zhang, ACM MM 2026 (Co-first author)
-- Customized Anomalous Video Generation for Incremental Learning in Weakly-Supervised Video Anomaly Detection. Weiliang Huang, **Weichao Cai**, Licheng Yan, Zhang Haozhuo, Bob Zhang, Biao Xue, Chao Huang, Fei Yuan, Baoyuan Wu, ACM MM 2026.
-- [Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection](https://www.ijcai.org/proceedings/2025/80). *Weichao Cai*, Weiliang Huang, Yunkang Cao, Chao Huang, Fei Yuan, Bob Zhang, IJCAI 2025 (First author)
-- [Multimodal Representation Distribution Learning for Medical Image Segmentation](https://www.ijcai.org/proceedings/2024/459). Chao Huang, **Weichao Cai***, Qiuping Jiang, Zhihua Wang, IJCAI 2024 (Corresponding author) [[code](https://github.com/GPIOX/Multimodal)]
+1. Bio-PCNet: Biologically-inspired Predictive Coding Network for Multi-modal Maritime Segmentation under Composite Degradation. **Weichao Cai**, Weiliang Huang, Biao Xue, Rongxin Zhang, Chao Huang, Bob Zhang, ACM MM 2026 (First author)
+2.	UPR-VAD: Uncertainty-guided Signal Purification and Regularization for Weakly-Supervised Video Anomaly Detection. Weiliang Huang, **Weichao Cai**, Bob Zhang, Chao Huang, Biao Xue, Rongxin Zhang, ACM MM 2026 (Co-first author)
+3. Customized Anomalous Video Generation for Incremental Learning in Weakly-Supervised Video Anomaly Detection. Weiliang Huang, **Weichao Cai**, Licheng Yan, Zhang Haozhuo, Bob Zhang, Biao Xue, Chao Huang, Fei Yuan, Baoyuan Wu, ACM MM 2026.
+4. [Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection](https://www.ijcai.org/proceedings/2025/80). *Weichao Cai*, Weiliang Huang, Yunkang Cao, Chao Huang, Fei Yuan, Bob Zhang, IJCAI 2025 (First author)
+5. [Multimodal Representation Distribution Learning for Medical Image Segmentation](https://www.ijcai.org/proceedings/2024/459). Chao Huang, **Weichao Cai***, Qiuping Jiang, Zhihua Wang, IJCAI 2024 (Corresponding author) [[code](https://github.com/GPIOX/Multimodal)]
 
 
 ## Journal Papers
-- [HEPE++: Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection](https://ieeexplore.ieee.org/document/11552775). **Weichao Cai**, Weiliang Huang, Yunkang Cao, Chao Huang, Fei Yuan, Bob Zhang, Weiming Shen. IEEE Transactions on Circuits and Systems for Video Technology, 2026 (First author)
-- [A State Space Model-Driven Multiscale Attention Method for Geological Hazard Segmentation](https://ieeexplore.ieee.org/document/10852340). Juan Yang, *Weichao Cai*, Gao Chen, Jingwen Yan, IEEE Transactions on Instrumentation and Measurement, 2024 [[code](https://github.com/GPIOX/pub_geo_mmseg)]
-- [Multiscale Global Attention for Abnormal Geological Hazard Segmentation](https://ieeexplore.ieee.org/abstract/document/10492495). **Weichao Cai**, Weiliang Huang, Lin Tian, Chao Huang, Jingwen Yan*, IEEE Sensor Journal, 2024
+1. [HEPE++: Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection](https://ieeexplore.ieee.org/document/11552775). **Weichao Cai**, Weiliang Huang, Yunkang Cao, Chao Huang, Fei Yuan, Bob Zhang, Weiming Shen. IEEE Transactions on Circuits and Systems for Video Technology, 2026 (First author)
+2. [A State Space Model-Driven Multiscale Attention Method for Geological Hazard Segmentation](https://ieeexplore.ieee.org/document/10852340). Juan Yang, *Weichao Cai*, Gao Chen, Jingwen Yan, IEEE Transactions on Instrumentation and Measurement, 2024 [[code](https://github.com/GPIOX/pub_geo_mmseg)]
+3. [Multiscale Global Attention for Abnormal Geological Hazard Segmentation](https://ieeexplore.ieee.org/abstract/document/10492495). **Weichao Cai**, Weiliang Huang, Lin Tian, Chao Huang, Jingwen Yan*, IEEE Sensor Journal, 2024
 
 # Educations
 - *2024.09 - Now*, School of Information, Xiamen University, Xiamen, China
