@@ -22,7 +22,7 @@ I am currently a PhD Candidate at the School of Information, Xiamen University, 
 1. Bio-PCNet: Biologically-inspired Predictive Coding Network for Multi-modal Maritime Segmentation under Composite Degradation. **Weichao Cai**, Weiliang Huang, Biao Xue, Rongxin Zhang, Chao Huang, Bob Zhang, ACM MM 2026 (First author)
 2.	UPR-VAD: Uncertainty-guided Signal Purification and Regularization for Weakly-Supervised Video Anomaly Detection. Weiliang Huang, **Weichao Cai**, Bob Zhang, Chao Huang, Biao Xue, Rongxin Zhang, ACM MM 2026 (Co-first author)
 3. Customized Anomalous Video Generation for Incremental Learning in Weakly-Supervised Video Anomaly Detection. Weiliang Huang, **Weichao Cai**, Licheng Yan, Zhang Haozhuo, Bob Zhang, Biao Xue, Chao Huang, Fei Yuan, Baoyuan Wu, ACM MM 2026.
-4. [Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection](https://www.ijcai.org/proceedings/2025/80). *Weichao Cai*, Weiliang Huang, Yunkang Cao, Chao Huang, Fei Yuan, Bob Zhang, IJCAI 2025 (First author)
+4. [Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection](https://www.ijcai.org/proceedings/2025/80). **Weichao Cai**, Weiliang Huang, Yunkang Cao, Chao Huang, Fei Yuan, Bob Zhang, IJCAI 2025 (First author)
 5. [Multimodal Representation Distribution Learning for Medical Image Segmentation](https://www.ijcai.org/proceedings/2024/459). Chao Huang, **Weichao Cai***, Qiuping Jiang, Zhihua Wang, IJCAI 2024 (Corresponding author) [[code](https://github.com/GPIOX/Multimodal)]
 
 
