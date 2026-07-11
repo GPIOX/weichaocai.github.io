@@ -10,6 +10,7 @@ redirect_from:
 I am currently a PhD Candidate at the School of Information, Xiamen University, Xiamen, advised by [Fei Yuan (袁飞)](https://informatics.xmu.edu.cn/info/1021/24079.htm). From 2023 to 2024, I was a visiting student with the School of Cyber Science and Technology, Shenzhen Campus of Sun Yat-sen University, Shenzhen, advised by [Chao Huang (黄超)](https://scst.sysu.edu.cn/members/members01/1406808.htm). My research interests include machine learning and computer vision, especially multi-view/multimodal representation learning and anomaly detection.
 
 # News
+- *2026.07* : 🎉🎉 Three paper are accepted by **ACM MM!**
 - *2026.06* : 🎉🎉 [Top Journal] Our paper is accepted by **IEEE T-CSVT!**
 - *2026.03* : 🎉🎉 Our paper [A State Space Model-Driven Multiscale Attention Method for Geological Hazard Segmentation](https://ieeexplore.ieee.org/document/10852340) **has become a highly cited ESI paper!** 🏆
 - *2025.04* : 🎉🎉 Our paper is accepted by **IJCAI 2025!**
@@ -18,7 +19,10 @@ I am currently a PhD Candidate at the School of Information, Xiamen University, 
 
 # Publications
 ## Conference Papers
-- [Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection](https://www.ijcai.org/proceedings/2025/80). **Weichao Cai**, Weiliang Huang, Yunkang Cao, Chao Huang, Fei Yuan, Bob Zhang, IJCAI 2025 (First author)
+- Bio-PCNet: Biologically-inspired Predictive Coding Network for Multi-modal Maritime Segmentation under Composite Degradation. **Weichao Cai**, Weiliang Huang, Biao Xue, Rongxin Zhang, Chao Huang, Bob Zhang, ACM MM 2026 (First author)
+-	UPR-VAD: Uncertainty-guided Signal Purification and Regularization for Weakly-Supervised Video Anomaly Detection. Weiliang Huang, **Weichao Cai**, Bob Zhang, Chao Huang, Biao Xue, Rongxin Zhang, ACM MM 2026 (Co-first author)
+- Customized Anomalous Video Generation for Incremental Learning in Weakly-Supervised Video Anomaly Detection. Weiliang Huang, **Weichao Cai**, Licheng Yan, Zhang Haozhuo, Bob Zhang, Biao Xue, Chao Huang, Fei Yuan, Baoyuan Wu, ACM MM 2026.
+- [Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection](https://www.ijcai.org/proceedings/2025/80). *Weichao Cai*, Weiliang Huang, Yunkang Cao, Chao Huang, Fei Yuan, Bob Zhang, IJCAI 2025 (First author)
 - [Multimodal Representation Distribution Learning for Medical Image Segmentation](https://www.ijcai.org/proceedings/2024/459). Chao Huang, **Weichao Cai***, Qiuping Jiang, Zhihua Wang, IJCAI 2024 (Corresponding author) [[code](https://github.com/GPIOX/Multimodal)]
 
 
