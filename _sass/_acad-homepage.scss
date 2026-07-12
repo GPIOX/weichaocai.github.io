@@ -267,6 +267,29 @@ a {
   color: #666f78;
 }
 
+.page__content .publication-section-title {
+  margin: 2rem 0 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #dfe4e8;
+  font-size: 1.4rem;
+}
+
+.page__content .publication-list-title {
+  margin: 2rem 0 0.75rem;
+  color: #4c555d;
+  font-size: 1.05rem;
+}
+
+.compact-publications {
+  margin: 0 0 2.25rem;
+  padding-left: 1.6rem;
+
+  li {
+    margin-bottom: 0.9rem;
+    line-height: 1.55;
+  }
+}
+
 .paper-box {
   display: flex;
   flex-direction: column;
@@ -313,6 +336,12 @@ a {
   object-position: top center;
 }
 
+.paper-thumb--contain img {
+  object-fit: contain;
+  object-position: center;
+  background: #fff;
+}
+
 .badge {
   position: absolute;
   top: 0.55rem;
@@ -325,6 +354,10 @@ a {
   font-size: 0.72rem;
   font-weight: 700;
   letter-spacing: 0.02em;
+}
+
+.badge--long {
+  font-size: 0.66rem;
 }
 
 .paper-box-text {

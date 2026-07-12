@@ -19,12 +19,12 @@ My research interests include **machine learning** and **computer vision**, with
 
 # 🔥 News
 
-- **2026.07** — Three papers were accepted by **ACM Multimedia 2026**.
-- **2026.06** — Our paper **HEPE++** was accepted by **IEEE T-CSVT**.
-- **2026.03** — Our paper [A State Space Model-Driven Multiscale Attention Method for Geological Hazard Segmentation](https://ieeexplore.ieee.org/document/10852340) became an **ESI Highly Cited Paper**.
-- **2025.04** — Our paper on zero-shot industrial anomaly detection was accepted by **IJCAI 2025**.
-- **2024.12** — Our paper was accepted by **IEEE T-IM**.
-- **2024.04** — Our paper was accepted by **IJCAI 2024**.
+- **2026.07** — 🎉🎉 Three papers were accepted by **ACM Multimedia 2026**.
+- **2026.06** — 🎉🎉 Our paper **HEPE++** was accepted by **IEEE T-CSVT**.
+- **2026.03** — 🎉🎉 Our paper [A State Space Model-Driven Multiscale Attention Method for Geological Hazard Segmentation](https://ieeexplore.ieee.org/document/10852340) became an **ESI Highly Cited Paper**. 🏆
+- **2025.04** — 🎉🎉 Our paper on zero-shot industrial anomaly detection was accepted by **IJCAI 2025**.
+- **2024.12** — 🎉🎉 Our paper was accepted by **IEEE T-IM**.
+- **2024.04** — 🎉🎉 Our paper was accepted by **IJCAI 2024**.
 
 <span class="anchor" id="publications"></span>
 
@@ -32,19 +32,7 @@ My research interests include **machine learning** and **computer vision**, with
 
 <p class="publication-intro">Selected publications are shown below. For citation records and updates, please visit my <a href="https://scholar.google.com/citations?user=1FgjPC0AAAAJ">Google Scholar profile</a>.</p>
 
-<div class="paper-box">
-  <div class="paper-box-image"><div class="paper-thumb"><span class="badge">IEEE T-CSVT 2026</span><img src="{{ '/images/publications/hepepp.svg' | relative_url }}" alt="HEPE++ publication card"></div></div>
-  <div class="paper-box-text" markdown="1">
-
-## HEPE++: Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection
-
-**Weichao Cai**, Weiliang Huang, Yunkang Cao, Chao Huang, Fei Yuan, Bob Zhang, Weiming Shen
-
-*IEEE Transactions on Circuits and Systems for Video Technology, 2026.* **First author.**
-
-[[Paper](https://ieeexplore.ieee.org/document/11552775)]
-  </div>
-</div>
+<h2 class="publication-section-title">Conference Papers</h2>
 
 <div class="paper-box">
   <div class="paper-box-image"><div class="paper-thumb"><span class="badge">IJCAI 2025</span><img src="{{ '/images/publications/hepe-ijcai-2025.png' | relative_url }}" alt="First page of the HEPE IJCAI 2025 paper"></div></div>
@@ -74,8 +62,46 @@ Chao Huang, **Weichao Cai\***, Qiuping Jiang, Zhihua Wang
   </div>
 </div>
 
+<h3 class="publication-list-title">ACM Multimedia 2026 · Recent Acceptances</h3>
+
+<ol class="compact-publications">
+  <li><strong>Bio-PCNet: Biologically-inspired Predictive Coding Network for Multi-modal Maritime Segmentation under Composite Degradation.</strong><br><strong>Weichao Cai</strong>, Weiliang Huang, Biao Xue, Rongxin Zhang, Chao Huang, Bob Zhang. <em>ACM Multimedia 2026.</em> <strong>First author.</strong></li>
+  <li><strong>UPR-VAD: Uncertainty-guided Signal Purification and Regularization for Weakly-Supervised Video Anomaly Detection.</strong><br>Weiliang Huang, <strong>Weichao Cai</strong>, Bob Zhang, Chao Huang, Biao Xue, Rongxin Zhang. <em>ACM Multimedia 2026.</em> <strong>Co-first author.</strong></li>
+  <li><strong>Customized Anomalous Video Generation for Incremental Learning in Weakly-Supervised Video Anomaly Detection.</strong><br>Weiliang Huang, <strong>Weichao Cai</strong>, Licheng Yan, Zhang Haozhuo, Bob Zhang, Biao Xue, Chao Huang, Fei Yuan, Baoyuan Wu. <em>ACM Multimedia 2026.</em></li>
+</ol>
+
+<h2 class="publication-section-title">Journal Papers</h2>
+
 <div class="paper-box">
-  <div class="paper-box-image"><div class="paper-thumb"><span class="badge">IEEE Sensors 2024</span><img src="{{ '/images/publications/mga.svg' | relative_url }}" alt="Multiscale Global Attention publication card"></div></div>
+  <div class="paper-box-image"><div class="paper-thumb paper-thumb--contain"><span class="badge">IEEE T-CSVT 2026</span><img src="{{ '/images/publications/hepepp.png' | relative_url }}" alt="Overview of the HEPE++ framework"></div></div>
+  <div class="paper-box-text" markdown="1">
+
+## HEPE++: Towards VLM-based Hybrid Explainable Prompt Enhancement for Zero-Shot Industrial Anomaly Detection
+
+**Weichao Cai**, Weiliang Huang, Yunkang Cao, Chao Huang, Bob Zhang, Fei Yuan, Jie Wen, Weiming Shen
+
+*IEEE Transactions on Circuits and Systems for Video Technology, 2026.* **First author.**
+
+[[Paper](https://ieeexplore.ieee.org/document/11552775)]
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image"><div class="paper-thumb paper-thumb--contain"><span class="badge">IEEE T-IM 2025</span><img src="{{ '/images/publications/tim-geohazard.png' | relative_url }}" alt="First page of the IEEE T-IM geological hazard segmentation paper"></div></div>
+  <div class="paper-box-text" markdown="1">
+
+## A State Space Model-Driven Multiscale Attention Method for Geological Hazard Segmentation
+
+Juan Yang, **Weichao Cai**, Gao Chen, Jingwen Yan
+
+*IEEE Transactions on Instrumentation and Measurement, 2025.*
+
+[[Paper](https://ieeexplore.ieee.org/document/10852340)] [[Code](https://github.com/GPIOX/pub_geo_mmseg)]
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image"><div class="paper-thumb paper-thumb--contain"><span class="badge badge--long">IEEE Sensors Journal 2024</span><img src="{{ '/images/publications/mga.png' | relative_url }}" alt="First page of the IEEE Sensors Journal geological hazard segmentation paper"></div></div>
   <div class="paper-box-text" markdown="1">
 
 ## Multiscale Global Attention for Abnormal Geological Hazard Segmentation
@@ -87,13 +113,6 @@ Chao Huang, **Weichao Cai\***, Qiuping Jiang, Zhihua Wang
 [[Paper](https://ieeexplore.ieee.org/document/10492495)]
   </div>
 </div>
-
-## Additional publications
-
-1. **Bio-PCNet: Biologically-inspired Predictive Coding Network for Multi-modal Maritime Segmentation under Composite Degradation.** **Weichao Cai**, Weiliang Huang, Biao Xue, Rongxin Zhang, Chao Huang, Bob Zhang. *ACM Multimedia 2026.* **First author.**
-2. **UPR-VAD: Uncertainty-guided Signal Purification and Regularization for Weakly-Supervised Video Anomaly Detection.** Weiliang Huang, **Weichao Cai**, Bob Zhang, Chao Huang, Biao Xue, Rongxin Zhang. *ACM Multimedia 2026.* **Co-first author.**
-3. **Customized Anomalous Video Generation for Incremental Learning in Weakly-Supervised Video Anomaly Detection.** Weiliang Huang, **Weichao Cai**, Licheng Yan, Zhang Haozhuo, Bob Zhang, Biao Xue, Chao Huang, Fei Yuan, Baoyuan Wu. *ACM Multimedia 2026.*
-4. [**A State Space Model-Driven Multiscale Attention Method for Geological Hazard Segmentation.**](https://ieeexplore.ieee.org/document/10852340) Juan Yang, **Weichao Cai**, Gao Chen, Jingwen Yan. *IEEE Transactions on Instrumentation and Measurement, 2024.* [[Code](https://github.com/GPIOX/pub_geo_mmseg)]
 
 <span class="anchor" id="education"></span>
 
