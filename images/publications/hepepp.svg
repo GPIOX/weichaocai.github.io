@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">HEPE++ publication card</title>
+  <desc id="desc">Official publication metadata for the HEPE++ IEEE T-CSVT paper.</desc>
+  <rect width="800" height="520" fill="#eef4fb"/>
+  <rect x="0" y="0" width="22" height="520" fill="#1d4f91"/>
+  <text x="68" y="92" fill="#1d4f91" font-family="Arial, sans-serif" font-size="25" font-weight="700">IEEE T-CSVT · 2026</text>
+  <text x="68" y="184" fill="#1d2d3d" font-family="Georgia, serif" font-size="56" font-weight="700">HEPE++</text>
+  <text x="68" y="246" fill="#334b60" font-family="Arial, sans-serif" font-size="25">Hybrid Explainable Prompt Enhancement</text>
+  <text x="68" y="284" fill="#334b60" font-family="Arial, sans-serif" font-size="25">for Zero-Shot Industrial Anomaly Detection</text>
+  <line x1="68" y1="352" x2="730" y2="352" stroke="#9eb3c7" stroke-width="2"/>
+  <text x="68" y="407" fill="#52697d" font-family="Arial, sans-serif" font-size="20">DOI: 10.1109/TCSVT.2026.3700398</text>
+  <text x="68" y="452" fill="#52697d" font-family="Arial, sans-serif" font-size="20">Weichao Cai et al.</text>
+</svg>

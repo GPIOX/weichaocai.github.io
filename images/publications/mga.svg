@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Multiscale Global Attention publication card</title>
+  <desc id="desc">Official publication metadata for the IEEE Sensors Journal paper.</desc>
+  <rect width="800" height="520" fill="#f1f6f1"/>
+  <rect x="0" y="0" width="22" height="520" fill="#276749"/>
+  <text x="68" y="88" fill="#276749" font-family="Arial, sans-serif" font-size="25" font-weight="700">IEEE SENSORS JOURNAL · 2024</text>
+  <text x="68" y="175" fill="#1f352b" font-family="Georgia, serif" font-size="42" font-weight="700">Multiscale Global Attention</text>
+  <text x="68" y="230" fill="#1f352b" font-family="Georgia, serif" font-size="42" font-weight="700">for Abnormal Geological</text>
+  <text x="68" y="285" fill="#1f352b" font-family="Georgia, serif" font-size="42" font-weight="700">Hazard Segmentation</text>
+  <line x1="68" y1="352" x2="730" y2="352" stroke="#a8bdae" stroke-width="2"/>
+  <text x="68" y="407" fill="#536a5c" font-family="Arial, sans-serif" font-size="20">DOI: 10.1109/JSEN.2024.3383233</text>
+  <text x="68" y="452" fill="#536a5c" font-family="Arial, sans-serif" font-size="20">Weichao Cai et al.</text>
+</svg>

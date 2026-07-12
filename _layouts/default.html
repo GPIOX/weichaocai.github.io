@@ -2,8 +2,6 @@
 layout: compress
 ---
 
-{% include base_path %}
-
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
@@ -16,12 +14,21 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    {{ content }}
+    <main id="main" role="main">
+      {% include sidebar.html %}
+
+      <article class="page" itemscope itemtype="https://schema.org/Person">
+        <div class="page__inner-wrap">
+          <section class="page__content" itemprop="description">
+            {{ content }}
+          </section>
+        </div>
+      </article>
+    </main>
 
     <div class="page__footer">
       <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+        <p>&copy; {{ site.time | date: '%Y' }} Weichao Cai. Built with Jekyll and adapted from <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a>.</p>
       </footer>
     </div>
 
