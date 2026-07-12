@@ -96,6 +96,8 @@ Juan Yang, **Weichao Cai**, Gao Chen, Jingwen Yan
 
 *IEEE Transactions on Instrumentation and Measurement, 2025.*
 
+<span class="paper-award">🏆 ESI Highly Cited Paper</span>
+
 [[Paper](https://ieeexplore.ieee.org/document/10852340)] [[Code](https://github.com/GPIOX/pub_geo_mmseg)]
   </div>
 </div>
